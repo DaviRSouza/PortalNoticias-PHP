@@ -1,0 +1,52 @@
+
+
+Qual ambiente do App Engine é baseado em instâncias pré-configuradas de contêineres?
+
+Ambiente flexível
+Os ambientes padrão e flexível
+(x)Ambiente padrão
+
+
+
+Qual opção a seguir é um ambiente leve de execução sem servidor e totalmente gerenciado para desenvolver e conectar serviços na nuvem?
+
+(x)Cloud Functions
+Google Kubernetes Engine
+App Engine
+Compute Engine
+
+
+
+Qual opção a seguir é uma plataforma gerenciada de computação que permite executar contêineres sem estado usando solicitações da Web ou eventos do Pub/Sub?
+
+Cloud Functions
+Google Kubernetes Engine
+App Engine
+(x)Cloud Run
+
+
+
+Qual opção a seguir é um ambiente gerenciado para implantar apps conteinerizados?
+close
+Cloud Functions
+(x)Google Kubernetes Engine
+App Engine
+Cloud Run
+
+
+
+Qual serviço de computação seria considerado IaaS?
+
+Google Kubernetes Engine
+(x)App Engine
+Cloud Functions
+Compute Engine
+
+
+
+Qual é o recurso do Compute Engine que permite adicionar ou subtrair VMs de um aplicativo com base em métricas de carga?
+
+Balanceamento de carga
+Discos permanentes
+(x)Escalonamento automático
+Network Time Protocol (NTP)
